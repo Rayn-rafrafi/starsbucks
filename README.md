@@ -1,2 +1,2 @@
 # starsbucks
- html/css/react.js/
+=> app web of starsbucks withe react.js
