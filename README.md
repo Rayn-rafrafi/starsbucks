@@ -1,2 +1,2 @@
 # starsbucks
-=> app web of starsbucks withe react.js
+=> web app of starsbucks withe react.js
